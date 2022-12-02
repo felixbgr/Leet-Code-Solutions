@@ -32,7 +32,6 @@ public class Solution1567 {
                 return false;
             }
         }
-
         return(Arrays.equals(word1FreqArray, word2FreqArray));
     }
 }
